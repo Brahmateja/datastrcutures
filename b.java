@@ -12,11 +12,7 @@ class a
 		int sub=x-y;
 		
 	}
-	void product()
-	{
-		int multiply=x*y;
-		
-	}
+	
 	void divison()
 	{
 		int div=x/y;
