@@ -1,7 +1,7 @@
 class a
 {
 	int x;
-	int y;
+	//i remoed variable y
 	void add()
 	{
 		int sum=x+y;
